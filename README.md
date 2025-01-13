@@ -1,4 +1,4 @@
-# BotSolUltimate v1
+# SolanaBot v1
 Aumatic bot for solana trading 
 
 The SolanaBot v1 scans new solana tokens based on filters such as liquidity, creation date, token holders, etc. Once the scan finds the token it passes it to the buy function for purchase.
